@@ -1,0 +1,11 @@
+Project is a anime serach engine
+
+MVP will have
+-Search bar
+-Click on anime card for more info such as...
+-- Episodes, Score, Rating etc
+-Use MyAnimeList API
+
+Nice to have 
+-Filter tab
+-Top anime list
