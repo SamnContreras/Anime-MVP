@@ -1,11 +1,17 @@
-Project is a anime serach engine
+My project is like a social media blog kinda website
 
-MVP will have
--Search bar
--Click on anime card for more info such as...
--- Episodes, Score, Rating etc
--Use MyAnimeList API
+Pages
+- Home
+- About
+- Contact
+- Register/Log in
 
-Nice to have 
--Filter tab
--Top anime list
+Features
+- Write a post 
+- Edit post after its been published
+- Delete post
+- Edit user info
+
+Database
+- Stores login info 
+- Stores post info 
